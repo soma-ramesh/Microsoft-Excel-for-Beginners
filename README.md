@@ -13,7 +13,7 @@ Dataset Used : Montgomery_Fleet_Equipment_Inventory_FA_.csv
 
 
 
-##Tasks Performed:
+## Tasks Performed:
 
 - Saved the CSV file as an XLSX file,
 - Sorted out the widths of all columns,
@@ -27,7 +27,7 @@ Dataset Used : Montgomery_Fleet_Equipment_Inventory_FA_.csv
 
 
 
-##Department names:
+## Department names:
 
 - Board of Elections,
 - Economic Development,
@@ -61,7 +61,7 @@ Dataset Used : Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx
 
 
 
-##Tasks Performed:
+## Tasks Performed:
 
 - Format the data as a table,
 - Used Aggregated Functions such as SUM, AVERAGE, MIN, MAX, COUNT for to drive insights from COLUMN C (Equipment Count),
@@ -69,7 +69,7 @@ Dataset Used : Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx
 - Analyzed data in the pivot table.
 
 
-Cleaned Dataset :Montgomery_Fleet_Equipment_Inventory_FA_PART_2_Data Analyzing.xlsx
+Cleaned Dataset : Montgomery_Fleet_Equipment_Inventory_FA_PART_2_Data Analyzing.xlsx
 
 
 Conclusions:
