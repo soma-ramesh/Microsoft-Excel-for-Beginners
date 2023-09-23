@@ -74,7 +74,7 @@ Dataset Used :
 
 
 
-Cleaned Dataset :
+Analyzed Dataset :
 **https://github.com/soma-ramesh/Microsoft-Excel-for-Beginners/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_Data%20Analyzing.xlsx**
 
 
